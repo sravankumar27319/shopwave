@@ -4,6 +4,9 @@ A complete, production-quality e-commerce frontend built with **React 18**, **Re
 
 Inspired by [foreverbuy.in](https://foreverbuy.in/) — clean editorial aesthetic, warm amber-gold accent, Cormorant Garamond display typeface.
 
+
+Demo Live:https://shopwave-j2m0fxou3-sravankumar27319-9066s-projects.vercel.app/
+
 ---
 
 ## Features
