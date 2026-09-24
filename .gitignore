@@ -3,12 +3,8 @@
 **/.env
 **/dist
 
-index.html
 
-package.json
 
 package-lock.json
 
-postcss.config.js
 
-vite.config.js
